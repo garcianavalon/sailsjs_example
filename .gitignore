@@ -81,7 +81,9 @@ bower_components
 .tmp
 dump.rdb
 
-
+.sails
+.waterline
+.rigging
 
 
 
